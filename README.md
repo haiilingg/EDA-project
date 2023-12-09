@@ -27,7 +27,7 @@ There are 2 files for this EDA analysis:
 3. Bivariate Analysis
 4. Multivariate/ Correlation Analysis
 
-### Findings
+### Findings:
 #### Application Data
 - More users applied for cash loans compared to revolving loans.
 - A higher number of females submitted their loan applications than males.
