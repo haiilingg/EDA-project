@@ -1,9 +1,9 @@
 ### tldr
-Click [HERE]() for the Jupyter Notebook where I performed the EDA using Python.
+Click [HERE](https://github.com/haiilingg/EDA-project/blob/main/EDA%20project-HLT%20(application%20data).ipynb) (application data) and [HERE](https://github.com/haiilingg/EDA-project/blob/main/EDA%20project-HLT(%20previous%20data).ipynb) (previous data)for the Jupyter Notebooks where I performed EDA using Python.
 
 Else, read the information below for the detailed project explanation.
 
-### Loan Defaulter
+## Loan Defaulter
 This case study aims to identify patterns which indicate if a client has difficulty paying their instalments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. 
 
 This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
