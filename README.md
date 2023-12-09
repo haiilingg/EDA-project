@@ -1,2 +1,2 @@
-# EDA-project
-EDA project on understanding how consumer attributes and loan attributes influence the tendency of default.
+# Project Aim
+To develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
