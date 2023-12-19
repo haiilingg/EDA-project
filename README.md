@@ -1,22 +1,4 @@
-### Findings:
-#### Application Data
-- More users applied for cash loans compared to revolving loans.
-- A higher number of females submitted their loan applications than males.
-- The majority of applicants applied for loans unaccompanied, completed their secondary education, and work as laborers.
-- Most applicants come from families with around 5 members.
-- More applicants with payment difficulties were observed among those who changed their ID/registration and started their current jobs a few days before their loan applications.
-- Younger clients are more likely to experience payment difficulties compared to older clients.
-- Females are more prone to facing payment difficulties than males.
-
-#### Previous Application Data
-- Most of the refused and canceled loans are cash loans.
-- The majority of approved loans fall under consumer loans.
-- The most common client type is repeaters, with the majority of applications being approved.
-- The XNA category for these five columns (NAME_PAYMENT_TYPE, NAME_SELLER_INDUSTRY, NAME_YIELD_GROUP, NAME_PORTFOLIO, NAME_PRODUCT_TYPE) has the highest number of canceled applications, while other columns typically have "approved applications" as the most common application status.
-- POS and Cash are the highest distributed portfolio categories for approved and refused applications, while XNA is predominant for canceled and unused offers.
-- The only reason for unused offers being rejected is "Client"; the top three reasons for refused applications are HC, LIMIT, and SCO.
-
-### tldr
+### Summary
 Click [HERE](https://github.com/haiilingg/EDA-project/blob/main/EDA%20project-HLT%20(application%20data).ipynb) (application data) and [HERE](https://github.com/haiilingg/EDA-project/blob/main/EDA%20project-HLT(%20previous%20data).ipynb) (previous data)for the Jupyter Notebooks where I performed EDA using Python.
 
 Else, read the information below for the detailed project explanation.
@@ -45,3 +27,30 @@ There are 2 files for this EDA analysis:
 3. Bivariate Analysis
 4. Multivariate/ Correlation Analysis
 
+### Findings:
+#### Application Data
+- More users applied for cash loans compared to revolving loans.
+- A higher number of females submitted their loan applications than males.
+- The majority of applicants applied for loans unaccompanied, completed their secondary education, and work as laborers.
+- Most applicants come from families with around 5 members.
+- More applicants with payment difficulties were observed among those who changed their ID/registration and started their current jobs a few days before their loan applications.
+- Younger clients are more likely to experience payment difficulties compared to older clients.
+- Females are more prone to facing payment difficulties than males.
+
+#### Previous Application Data
+- Most of the refused and canceled loans are cash loans.
+- The majority of approved loans fall under consumer loans.
+- The most common client type is repeaters, with the majority of applications being approved.
+- The XNA category for these five columns (NAME_PAYMENT_TYPE, NAME_SELLER_INDUSTRY, NAME_YIELD_GROUP, NAME_PORTFOLIO, NAME_PRODUCT_TYPE) has the highest number of canceled applications, while other columns typically have "approved applications" as the most common application status.
+- POS and Cash are the highest distributed portfolio categories for approved and refused applications, while XNA is predominant for canceled and unused offers.
+- The only reason for unused offers being rejected is "Client"; the top three reasons for refused applications are HC, LIMIT, and SCO.
+
+### Recommendations:
+#### Application Data
+- Diversify Loan Products or introduce promotional offers to encourage applicants to explore revolving loans.
+- Research why more females apply loans than males and tailor marketing strategies to attract more male applicants. 
+- Implement stricter evaluation criteria for applicants who changed their ID/registration or started their current jobs shortly before their loan applications.
+- Develop support programs or financial literacy initiatives specifically targeting younger clients to help them manage their finances more effectively and reduce the likelihood of payment difficulties.
+- Adjust loan terms and conditions based on age groups. For younger clients, consider providing more flexible repayment options or additional support mechanisms to mitigate potential payment difficulties.
+
+#### Previous Application Data
