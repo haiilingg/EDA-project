@@ -45,6 +45,8 @@ There are 2 files for this EDA analysis:
 - POS and Cash are the highest distributed portfolio categories for approved and refused applications, while XNA is predominant for canceled and unused offers.
 - The only reason for unused offers being rejected is "Client"; the top three reasons for refused applications are HC, LIMIT, and SCO.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Recommendations:
 #### Application Data
 - Diversify Loan Products or introduce promotional offers to encourage applicants to explore revolving loans.
